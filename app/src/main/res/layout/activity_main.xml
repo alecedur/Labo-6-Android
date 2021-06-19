@@ -33,6 +33,7 @@
         android:layout_marginBottom="132dp"
         android:onClick="playSound2"
         android:text="Re"
+        android:textColor="@drawable/button_text_color"
         app:layout_constraintBottom_toTopOf="@+id/B_Fa"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
@@ -46,6 +47,7 @@
         android:layout_marginBottom="132dp"
         android:onClick="playSound3"
         android:text="Mi"
+        android:textColor="@drawable/button_text_color"
         app:layout_constraintBottom_toTopOf="@+id/B_Sol"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -58,6 +60,7 @@
         android:layout_marginBottom="132dp"
         android:onClick="playSound4"
         android:text="Fa"
+        android:textColor="@drawable/button_text_color"
         app:layout_constraintBottom_toTopOf="@+id/B_La"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -70,6 +73,7 @@
         android:layout_marginBottom="132dp"
         android:onClick="playSound"
         android:text="Sol"
+        android:textColor="@drawable/button_text_color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -82,6 +86,7 @@
         android:layout_marginBottom="132dp"
         android:onClick="playSound2"
         android:text="La"
+        android:textColor="@drawable/button_text_color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -92,6 +97,7 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:text="Press a button"
+        android:textColor="@drawable/button_text_color"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
