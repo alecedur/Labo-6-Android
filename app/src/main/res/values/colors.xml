@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="red">#EC0E0E</color>
 
+
     <color name="colorStatePressed">#EC0E0E</color>
     <color name="colorStateEnabled">#303030</color>
     <color name="colorStateNotEnabled">#9C9C9C</color>
